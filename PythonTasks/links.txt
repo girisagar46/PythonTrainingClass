@@ -1,0 +1,6 @@
+https://www.w3resource.com/python-exercises/dictionary/
+https://www.codesdope.com/practice/python-what-about-dictionary/
+http://www.sanfoundry.com/python-questions-answers-dictionary-2/
+http://www.techbeamers.com/python-programming-questions-list-tuple-dictionary/
+https://introcs.cs.princeton.edu/python/appendix_cheatsheet/
+
